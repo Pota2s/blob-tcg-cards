@@ -1,0 +1,91 @@
+D  0-45
+
+C- 46-50
+C  51-55
+C+ 56-60
+B- 61-65
+B  66-70
+B+ 71-75
+
+A- 76-80
+A  81-85
+A+ 86-90
+S  91-95
+SS 96-99
+
+OVR = Avg of 3 highest stats
+Preferences [HS/Combo/Aerial/Shadowswing/Manual]
+
+(READ)
+99 doesn't imply a level of proficiency higher than 90, just a temperament more suited for the respective specialization
+By extension, low scores sometimes only indicate less focus on a particular aspect (i.e a stylistic choice), not a lower level of proficiency.
+
+Basic mechanics: Swingblock, Walk, PB, LMB-hold Combo, A-D Strafe, Yaw
+Intermediate mechanics: Halfswing, PB Overlaps, Click combos, Shadowswing
+Advanced mechanics: Disarm, Swingblock Combos, Counterswings, Overyaw/Instant Yaw
+MECHANICS =/= TECHS
+
+BENCHMARKS/STAT DESCRIPTORS
+OFFENSE
+~99 OFF : Self explanatory
+~90 OFF : An effective offensive package that enables one to compete at the highest level *effective, not all-encompassing - doesn't have to utilize all the offensive mechanics/techs*
+~80 OFF : Highly proficient, typically denoting the overspecialized - Weak against certain matchups/has a pronounced weakness
+~70 OFF : Mechanically and technically proficient, but isn't offense-oriented in general. This range accounts for the defensive players that are typically seen in regions with higher base ping, and the highly proficient players that are just ever so slightly inconsistent
+~60 OFF : Capable of executing high level mechanics/techs and momentary offensive perfection, but is ultimately too unrefined/inconsistent for top level comp
+(=)
+Readable/static/can't maintain high level offense
+~50 OFF : Referring to players with good usage of intermediate mechanics, e.g halfswing/sbed comboing, but aren't mechanically consistent and poised enough for any comp play in general
+~40 OFF : The aspiring; mechanically limited/still learning
+~30 OFF : Incapable of executing intermediate mechanics
+~20 OFF : Average pub players
+~10 OFF : New player
+
+DEFENSE - PB-BASED DEFENSE ONLY
+~99 DEF: The overspecialized; Capable of pbing flick-based offense at blankpoint/is prepared for niche defending scenarios - pbing laggy players, etc/perfect pattern recognition, muscle memory and aim.
+This level of mechanical perfection is hard to come by, considering how pb-based defense is forgone in modern comp play. 99 DEF is specifically reserved for the top tier comp players who are highly defense-oriented
+~90 DEF: Near-perfect PBs + a balanced mindset towards defending
+~80 DEF: Mechanically proficient, but not overly-inclined
+~70 DEF: A bit rough around the edges
+~60 DEF: Capable of the intricacies of high level-pbing (Pattern recognition/Overlaps), but isn't mechanically consistent enough to pull it off in high pressure scenarios
+~50 DEF: The aspiring; mechanically limited/still learning
+~40 DEF: Knows how to PB, but isn't proficient in any sense of the word
+~30 DEF: Occasionally perfect blocks
+~20 DEF: Never tries to PB
+~10 DEF: New player
+
+AGILITY - MOVEMENT-BASED DEFENSE/SENSE OF DISTANCE
+~99 AGI: The overspecialized; relies heavily on and EXCEL at utilizing distance/all facets of movement
+~90 AGI: Highly movement-oriented, to the extent that it bleeds into different aspects of their game (e.g a proficient shadowswinger); Perfect sense of distance that lends itself to a movement-based playstyle that is comp-compatible (e.g comp players on alternative forms)
+~80 AGI: Mechanically proficient, but not overly-inclined
+~70 AGI: Denoting players whose movement isn't measurably inhibited, but limited due to personal preferences. Might somewhat struggle against exaggerated movement
+~60 AGI: Accounting for players with stationary playstyles; minimal movement
+~50 AGI: Has a subpar sense for distance (for instance, might somewhat struggles to shadowswing properly and land his/her fullswings against a moving opponent)
+~40 AGI: Hasn't fully grasp all the existing movement mechanics(D-side input priority/rolling/etc), and has poor movement in general - bad movement-based defense/can't escape or sustain when low
+~30 AGI: Does not move
+~20 AGI: https://www.youtube.com/watch?v=sL5r3TRmmKE
+~10 AGI: New player
+
+REFLEX - RAW REFLEXES/COUNTERSWING ABILITY/HALTING WHEN INTERRUPTED/SPEED OF OFFENSE ON SLAP
+~99 REF: Self explanatory
+~90 REF: Great but not perfect. For instance, may still occasionally miss out on chances for counter flicks
+~80 REF: Generally hits counterswings well and duly disengages when interrupted, but still gets caught off guard every now and then
+~70 REF: Average reflexes
+~60 REF: Struggles with quick-time maneuvers such as setting up an optimal offensive chain on slap/disengage upon being interrupted
+~50 REF: Slow in reflex-dependent interactions/inconsistent counterswings
+~40 REF: The aspiring; mechanically limited/still learning
+~30 REF: Poor counterswings/offense on slap
+~20 REF: Still learning counters/quick-time interractions
+~10 REF: New player
+
+TIMING - ALL THAT REQUIRES ACTIVE TIMING&EXECUTION - SLAPPING/DEFENSE<=>OFFENSE SWITCHING/CHAIN RESETTING/(DEX SWINGING INCLUDED EXCLUSIVELY FOR PLAYERS WHO WERE ONLY ACTIVE DURING ITS LIFETIME)
+(Timing for mechanical execution/muscle memory, e.g knowing how to keep halfswinging in a chain, isn't a part of this criteria)
+~99 TIM: The specialized, frame perfect timing; Slap-based offense/Slap-resetting-based offense/Punishing turtlers/Switching from offense to defense, defense to offense/Timing for interrupts. Extreme mastery of any/multiple of these skills with good command over the rest = 99 Timing
+~90 TIM: Great timing, well-versed in all facets of timing
+~80 TIM: Good timing, understands the timing-related techs/intricacies, but execution is still occasionally faulty
+~70 TIM: Though inconsistent in their execution, players of this range are capable of advanced timing; some might even possess a timing-centric offensive package.
+~60 TIM: The aspiring; mechanically limited/still learning
+~50 TIM: Isn't capable of setting up timing-related maneuvers/plays
+~40 TIM: Faulty timing that is detrimental to oneself (e.g constant attempts at setting up long-winded interrupt chains that lead to huge stamina loss) 
+~30 TIM -> 0 TIM = gradually decreasing proficiency and inclination
+
+
