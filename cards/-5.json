@@ -1,0 +1,22 @@
+{
+    "id": -5,
+    "name": "Testman",
+    "image": "",
+    "overall": 99,
+    "tier": "DEV",
+    "passives": [],
+    "stats": {
+        "attack": 20,
+        "defense": 20,
+        "agility": 20,
+        "reflex": 20,
+        "timing": 20
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 1,
+        "shadowswing": 1,
+        "manualblock": 1
+    }
+}
