@@ -5,3 +5,10 @@ Images only require a link to the image in a CDN, discord's CDN is preferable, i
 
 Rankings.txt is a general guideline to making these cards ratings.
 Passives are not to be added by you. Only select people are given rights to add passives.
+
+Currently these IDs are reserved by region:
+11 - 20 Asia
+21 - 26 OCE
+27 - 38 Europe
+39 - 50 NA
+51 - 60 Other
