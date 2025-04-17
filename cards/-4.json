@@ -1,0 +1,22 @@
+{
+    "id": -4,
+    "name": "Contra",
+    "image": "https://cdn.discordapp.com/attachments/1127831774421078066/1362470525804347442/cardplaceholder.png?ex=6802830e&is=6801318e&hm=da2b403f0124bd7d8024635ed86ab99b6294b5444488b46f99d6905c48924de0&",
+    "overall": 14,
+    "tier": "DEV",
+    "passives": [],
+    "stats": {
+        "attack": 9,
+        "defense": 13,
+        "agility": 19,
+        "reflex": 1,
+        "timing": 1
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 3,
+        "shadowswing": 1,
+        "manualblock": 0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Everyman",
+    "image": "",
+    "tier": "DEV",
+    "id": -2,
+    "overall": 80,
+    "stats": {
+        "attack": 80,
+        "defense": 80,
+        "agility": 80,
+        "reflex": 80,
+        "timing": 80
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 1,
+        "shadowswing": 1
+    },
+    "passives" : {
+
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blobl (Good Timeline)",
+    "image": "placeholder",
+    "tier": "DEV",
+    "id": -1,
+    "overall": 99,
+    "stats": {
+        "attack": 99,
+        "defense": 99,
+        "agility": 99,
+        "reflex": 99,
+        "timing": 99
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 1,
+        "shadowswing": 1
+    },
+    "passives" : {
+
+    }
+}

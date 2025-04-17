@@ -1,0 +1,23 @@
+{
+    "name": "Infant",
+    "image": "placeholder",
+    "tier": "DEV",
+    "id": -3,
+    "overall": 60,
+    "stats": {
+        "attack": 60,
+        "defense": 60,
+        "agility": 60,
+        "reflex": 60,
+        "timing": 60
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 1,
+        "shadowswing": 1
+    },
+    "passives" : {
+
+    }
+}
