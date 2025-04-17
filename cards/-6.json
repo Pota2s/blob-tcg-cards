@@ -1,0 +1,23 @@
+{
+    "name": "Blobl (Accurate Timeline)",
+    "image": "placeholder",
+    "tier": "DEV",
+    "id": -1,
+    "overall": 0,
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "agility": 0,
+        "reflex": 0,
+        "timing": 0
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 1,
+        "shadowswing": 1
+    },
+    "passives" : {
+
+    }
+}
