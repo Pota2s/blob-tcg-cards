@@ -1,0 +1,22 @@
+{
+    "id": -5,
+    "name": "bwaaaa",
+    "image": "",
+    "overall": 14,
+    "tier": "DEV",
+    "passives": [],
+    "stats": {
+        "attack": 1,
+        "defense": 1,
+        "agility": 1,
+        "reflex": 1,
+        "timing": 1
+    },
+    "preferences": {
+        "halfswing": 1,
+        "combo": 1,
+        "aerial": 1,
+        "shadowswing": 1,
+        "manualblock": 1,
+    }
+}
